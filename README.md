@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Power BI
 - 🤔 I’m looking for help with ... Deep Learning
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [LinkedIN](www.linkedin.com/in/kameshmishra)
+- 📫 How to reach me: ... [LinkedIn](www.linkedin.com/in/kameshmishra)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Sometimes dumb at first attempt
 
