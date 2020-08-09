@@ -2,8 +2,6 @@
 
                         A passionate Data Science & Machine Learning enthusiast from India
 
-<!--
-**Kamesh-Mishra/Kamesh-Mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIN](www.linkedin.com/in/kameshmishra)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Sometimes dumb at first attempt
--->
+
+
+
 
