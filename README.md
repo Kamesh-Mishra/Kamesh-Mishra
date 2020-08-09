@@ -3,13 +3,6 @@
                         A passionate Data Science & Machine Learning enthusiast from India
 
 
-<img src="https://komarev.com/ghpvc/?username=Kamesh-Mishra" alt="Kamesh-Mishra" />
-  
-[![Repos Badge](https://badges.pufler.dev/repos/Kamesh-Mishra)](https://badges.pufler.dev)
-
-[![Years Badge](https://badges.pufler.dev/years/Kamesh-Mishra)](https://badges.pufler.dev)
-
-
 
 Here are some ideas to get you started:
 
@@ -23,6 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...Sometimes dumb at first attempt
 
 
+
+
+<img src="https://komarev.com/ghpvc/?username=Kamesh-Mishra" alt="Kamesh-Mishra" />
+  
+[![Repos Badge](https://badges.pufler.dev/repos/Kamesh-Mishra)](https://badges.pufler.dev)
+
+[![Years Badge](https://badges.pufler.dev/years/Kamesh-Mishra)](https://badges.pufler.dev)
 
 
 
