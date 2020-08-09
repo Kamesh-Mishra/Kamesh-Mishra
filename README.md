@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Data Science Project
+- 🔭 I’m currently working on ...Data Science Project
 - 🌱 I’m currently learning ... Machine Learning & Deep Learning
 - 👯 I’m looking to collaborate on ... Power BI
 - 🤔 I’m looking for help with ... Deep Learning
