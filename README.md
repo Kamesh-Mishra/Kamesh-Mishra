@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Kamesh
 
+                      A passionate Data Science & Machine Learning enthusiast from India 
+
+
 <img align="right" src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-512.png" height="300" width="300">
-                        A passionate Data Science & Machine Learning enthusiast from India 
+                                     
 
 
 
