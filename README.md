@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Kamesh
 
-                      A passionate Data Science & Machine Learning enthusiast from India 
+
+                    A passionate Data Science & Machine Learning enthusiast from India 
+
 <img align="right" src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-512.png" height="300" width="300">
                                      
 
@@ -23,6 +25,8 @@
 [![Repos Badge](https://badges.pufler.dev/repos/Kamesh-Mishra)](https://badges.pufler.dev)
 
 [![Years Badge](https://badges.pufler.dev/years/Kamesh-Mishra)](https://badges.pufler.dev)
+
+
 
 
 
