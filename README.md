@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Kamesh
 
 <img align="right" src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-512.png" height="300" width="300">
-                       <h4 align="center> A passionate Data Science & Machine Learning enthusiast from India </h4>
+                        A passionate Data Science & Machine Learning enthusiast from India 
+
+
 
 - 🔭 I’m currently working on ...Data Science Project
 - 🌱 I’m currently learning ... Machine Learning & Deep Learning
