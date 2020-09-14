@@ -2,10 +2,9 @@
 
 
                     A passionate Data Science & Machine Learning enthusiast from India 
-
-<img align="right" src="https://cdn3.iconfinder.com/data/icons/developers-iconset/90/Developers_Colorai-04-512.png" height="300" width="300">
                                      
 
+<img align="right" alt="GIF" width="500" height="300" src="https://websiteoncall.com/wp-content/uploads/2020/03/software_development.gif" />
 
 
 - 🔭 I’m currently working on ...Data Science Project
