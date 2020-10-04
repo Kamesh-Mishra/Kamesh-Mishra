@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Kamesh
+### Hi there 👋 I'm Kamesh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+
 
 
                     A passionate Data Science & Machine Learning enthusiast from India 
