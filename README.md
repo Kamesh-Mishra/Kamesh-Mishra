@@ -4,8 +4,7 @@
 
                     A passionate Data Science & Machine Learning enthusiast from India 
                                      
-
-<img align="right" alt="GIF" width="400" height="300" src="https://websiteoncall.com/wp-content/uploads/2020/03/software_development.gif" />
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="500" height="400">
 
 
 - 🔭 I’m currently working on ... Looking for job in Data Science
