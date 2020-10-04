@@ -4,7 +4,7 @@
 
                     A passionate Data Science & Machine Learning enthusiast from India 
                                      
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="500" height="400">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="400" height="400">
 
 
 - 🔭 I’m currently working on ... Looking for job in Data Science
