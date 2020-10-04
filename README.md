@@ -7,9 +7,9 @@
 <img align="right" alt="GIF" width="400" height="300" src="https://websiteoncall.com/wp-content/uploads/2020/03/software_development.gif" />
 
 
-- 🔭 I’m currently working on ...Data Science Project
+- 🔭 I’m currently working on ...Looking for job in Data Science Domain
 - 🌱 I’m currently learning ... Machine Learning & Deep Learning
-- 👯 I’m looking to collaborate on ... Power BI
+- 👯 I’m looking to collaborate on ... Data analytics
 - 🤔 I’m looking for help with ... Deep Learning
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](www.linkedin.com/in/kameshmishra)
