@@ -18,7 +18,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Kamesh-Mishra" alt="Kamesh-Mishra" />
 
-
 [![Repos Badge](https://badges.pufler.dev/repos/Kamesh-Mishra)](https://badges.pufler.dev)
 
 [![Years Badge](https://badges.pufler.dev/years/Kamesh-Mishra)](https://badges.pufler.dev)
@@ -27,16 +26,9 @@
 
 
 
-<br>
+
 [![Kamesh's github stats](https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra)](https://github.com/Kamesh-Mishra/github-readme-stats)
-</br>
+
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamesh-Mishra&layout=compact&hide=html" alt="Kamesh-Mishra" />
-
-
-
-
-
-
-
 
 <h2 align="center">Give some ❤ Give some ⭐</h2>
