@@ -16,15 +16,8 @@
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Sometimes dumb at first attempt
 
-<img src="https://komarev.com/ghpvc/?username=Kamesh-Mishra" alt="Kamesh-Mishra" />
-
-[![Repos Badge](https://badges.pufler.dev/repos/Kamesh-Mishra)](https://badges.pufler.dev)
-
-[![Years Badge](https://badges.pufler.dev/years/Kamesh-Mishra)](https://badges.pufler.dev)
-
-
-
-
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{Anagha-2000}/count.svg)
 
 
 [![Kamesh's github stats](https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra)](https://github.com/Kamesh-Mishra/github-readme-stats)
