@@ -17,7 +17,7 @@
 - ⚡ Fun fact: ...Sometimes dumb at first attempt
 
 **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{Anagha-2000}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{Kamesh-Mishra}/count.svg)
 
 
 [![Kamesh's github stats](https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra)](https://github.com/Kamesh-Mishra/github-readme-stats)
