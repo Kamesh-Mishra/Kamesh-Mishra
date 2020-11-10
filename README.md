@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="500" height="400">
 
 
-- 🔭 I’m currently working on ... Looking for job in Data Science
+- 🔭 I’m currently working on ... Looking for Full time opportunity in Data Science
 - 🌱 I’m currently learning ... Machine Learning & Deep Learning
 - 👯 I’m looking to collaborate on ... Data analytics
 - 🤔 I’m looking for help with ... Deep Learning
