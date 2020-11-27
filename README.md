@@ -25,6 +25,3 @@
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamesh-Mishra&layout=compact&hide=html" alt="Kamesh-Mishra" />
 
 <h2 align="center">Give some ❤ Give some ⭐</h2>
-
-
-<img src="stats.gif" width="90%"><br/><br/>
