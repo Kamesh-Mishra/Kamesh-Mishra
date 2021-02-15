@@ -1,24 +1,16 @@
 ### Hi there 👋 I'm Kamesh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
-
-
 <h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
                                      
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="500" height="400">
 
-
-- 🔭 I’m currently working on ... Looking for Full time opportunity in Data Science
-- 🌱 I’m currently learning ... Machine Learning & Deep Learning
-- 👯 I’m looking to collaborate on ... Data analytics
-- 🤔 I’m looking for help with ... Deep Learning
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [LinkedIn](www.linkedin.com/in/kameshmishra)
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Sometimes dumb at first attempt
+- 🔭 My area of interest is in Analytics & Visulizations. 
+- 🌱 I’m currently learning React.js sideby.
+- 💬 Ask me about Data Science & Visualizations.
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kameshmishra)
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{Kamesh-Mishra}/count.svg)
 
-
+You can connect with me here,
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kameshmishra-data/)
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://Kamesh-Mishra.github.io/)
