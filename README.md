@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
                                      
 
-- 🔭 My area of interest is in Analytics & Visulizations. 
-- 🌱 I’m currently learning React.js sideby.
-- 💬 Ask me about Data Science & Visualizations.
+- 🔭 My area of interest is in Analytics, Visualizations & Machine Learning. 
+- 🌱 I’m currently learning Visualizations and web development.
+- 💬 Ask me about Data Science & Analytics.
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kameshmishra)
 
 **Visitors Count**  
