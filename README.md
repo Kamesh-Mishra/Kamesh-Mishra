@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Kamesh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
 
-
-                    A passionate Data Science & Machine Learning enthusiast from India 
+<h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
                                      
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" alt="Coder GIF" width="500" height="400">
 
