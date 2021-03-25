@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Kamesh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
-<h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
+<h3 align="center">A passionate IT enthusiast from India</h3>
                                      
-
+<!--
 - 🔭 My area of interest is in Analytics, Visualizations & Machine Learning. 
 - 🌱 I’m currently learning Visualizations and web development.
 - 💬 Ask me about Data Science & Analytics.
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kameshmishra)
-
+-->
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{Kamesh-Mishra}/count.svg)
 
