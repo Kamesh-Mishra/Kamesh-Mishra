@@ -1,14 +1,24 @@
 ### Hi there 👋 I'm Kamesh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
-<h3 align="center">A passionate IT enthusiast from India</h3>
-                                     
-<!--
-- 🔭 My area of interest is in Analytics, Visualizations & Machine Learning. 
-- 🌱 I’m currently learning Visualizations and web development.
-- 💬 Ask me about Data Science & Analytics.
+<h3 align="center">A passionate Computer Science enthusiast from India</h3>
+    
+                                 
+
+- 🔭 My area of interest is in Computer Technology. 
+- 🌱 I’m currently learning Python.
+- 💬 Ask me about Anything.
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kameshmishra)
--->
+
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+[![Kamesh's github stats](https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra)](https://github.com/Kamesh-Mishra/github-readme-stats)
+
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamesh-Mishra&layout=compact&hide=html" alt="Kamesh-Mishra" />
+
+
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{Kamesh-Mishra}/count.svg)
+
 
 You can connect with me here,
 
@@ -19,8 +29,5 @@ You can connect with me here,
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/)
 
-[![Kamesh's github stats](https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra)](https://github.com/Kamesh-Mishra/github-readme-stats)
-
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamesh-Mishra&layout=compact&hide=html" alt="Kamesh-Mishra" />
 
 <h2 align="center">Give some ❤ Give some ⭐</h2>
