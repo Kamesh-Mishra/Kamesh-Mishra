@@ -6,7 +6,7 @@
 - 🔭 My area of interest is in Computer Technology. 
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about Anything.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kameshmishra)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kameshmishra/)
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
