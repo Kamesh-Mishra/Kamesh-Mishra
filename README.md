@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Kamesh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
-<h3 align="center">A passionate Computer Science enthusiast from India</h3>
+<h3 align="center">A passionate Information Technology enthusiast from India</h3>
     
                                  
 
-- 🔭 My area of interest is in Computer Technology. 
-- 🌱 I’m currently learning Python.
+- 🔭 My area of interest is in Software Development. 
+- 🌱 I’m currently learning web development.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kameshmishra/)
 
