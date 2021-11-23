@@ -15,6 +15,11 @@
 
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamesh-Mishra&layout=compact&hide=html" alt="Kamesh-Mishra" />
 
+## Consistency is key ✨
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamesh-Mishra&" alt="Kamesh-Mishra" /></p>
+
+## Talk is cheap, show me the code ✅
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Kamesh-Mishra&theme=react-dark&hide_border=true&area=true)
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{Kamesh-Mishra}/count.svg)
