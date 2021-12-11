@@ -22,7 +22,7 @@
 ## Talk is cheap, show me the code ✅
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Kamesh-Mishra&theme=react-dark&hide_border=true&area=true)
 
-## **Visitors Count**  
+**Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{Kamesh-Mishra}/count.svg)
 
 
