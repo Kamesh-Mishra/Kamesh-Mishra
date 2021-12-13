@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kamesh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
-<h2 align="center">A passionate Information Technology enthusiast from India</h3>
+<h2 align="center">A passionate IT enthusiast from India</h3>
  
                                  
 
