@@ -4,8 +4,8 @@
  
                                  
 
-- 🔭 My area of interest is in Software Development. 
-- 🌱 I’m currently learning web development.
+- 🔭 My area of interest is in Software Engineering. 
+- 🌱 I’m currently learning Software Development.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kameshmishra/)
 
