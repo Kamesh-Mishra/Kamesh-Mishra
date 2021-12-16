@@ -19,7 +19,7 @@
 ## Consistency is key ✨
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamesh-Mishra&" alt="Kamesh-Mishra" /></p>
 
-## Talk is cheap, show me the code ✅
+## Talk is cheap, Show me the code ✅
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Kamesh-Mishra&theme=react-dark&hide_border=true&area=true)
 
 **Visitors Count**  
