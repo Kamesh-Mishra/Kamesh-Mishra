@@ -3,7 +3,6 @@
 <h2 align="center">A passionate IT enthusiast from India</h3>
  
                                  
-
 - 🔭 My area of interest is in Software Engineering. 
 - 🌱 I’m currently learning Software Development.
 - 💬 Ask me about Anything.
