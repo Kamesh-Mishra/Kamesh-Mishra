@@ -38,4 +38,4 @@ You can connect with me here,
 <h2 align="center">Give some ❤ Give some ⭐</h2>
 
 
-![footer](https://github.com/vanshika230/vanshika230/blob/main/footer.png)
+![footer](https://github.com/Kamesh-Mishra/Kamesh-Mishra/blob/master/footer.png)
