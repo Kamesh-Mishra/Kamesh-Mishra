@@ -3,7 +3,7 @@
 <h2 align="center">A Passionate Software Engineer from INDIA</h3>
  
                                  
-- 🔭 My area of interest is in Software Engineering. 
+- 🔭 My area of interest is in Information Technology. 
 - 🌱 I’m currently learning Software Development.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kameshmishra/)
