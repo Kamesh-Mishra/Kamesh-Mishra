@@ -14,7 +14,7 @@
 [![Kamesh's github stats](https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra)](https://github.com/Kamesh-Mishra/github-readme-stats)
 
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamesh-Mishra&layout=compact&hide=html" alt="Kamesh-Mishra" />
-
+![Santosh Yadav Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kamesh-Mishra&layout=compact&theme=radical)
 ## Consistency is key ✨
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamesh-Mishra&" alt="Kamesh-Mishra" /></p>
 
