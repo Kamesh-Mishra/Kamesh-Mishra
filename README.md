@@ -1,7 +1,5 @@
-## Hi there 👋 I'm Kamesh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+## Hi there 👋 I'm Kameshh Mishra<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
-<h2 align="center">A Passionate Software Engineer from INDIA</h3>
- 
                                  
 - 🔭 My area of interest is in Information Technology. 
 - 🌱 I’m currently learning Software Development.
@@ -14,12 +12,10 @@
 [![Kamesh's github stats](https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra)](https://github.com/Kamesh-Mishra/github-readme-stats)
 
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamesh-Mishra&layout=compact&hide=html" alt="Kamesh-Mishra" />
-![Santosh Yadav Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kamesh-Mishra&layout=compact&theme=radical)
-## Consistency is key ✨
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamesh-Mishra&" alt="Kamesh-Mishra" /></p>
 
-## Talk is cheap, Show me the code ✅
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Kamesh-Mishra&theme=react-dark&hide_border=true&area=true)
+## Consistency is key ✨
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kamesh-Mishra&theme=blue-navy&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{Kamesh-Mishra}/count.svg)
