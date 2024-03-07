@@ -4,7 +4,7 @@
 - 🔭 My area of interest is in Information Technology. 
 - 🌱 I’m currently learning Software Development.
 - 💬 Ask me about Anything.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kameshmishra/)
+
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
