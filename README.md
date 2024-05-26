@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Kameshh Mishra<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
-                                 
-- 🔭 My area of interest is in Information Technology. 
-- 🌱 I’m currently learning Software Development.
-- 💬 Ask me about Anything.
+ - <h4>:telescope: I am passionate about technology, innovation, and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development, and Cyber Security. </h4>
 
+- <h4>:seedling: I’m interested in Coding, App Development, Web Development, Cloud Computing, Machine Learning, Artificial Intelligence, Data Science, Cyber Security, Open Source, Competitive Programming, and many more. </h4>
+
+- <h4>📚 In my free time, I like to read books, watch movies, listen to music, and earn certifications and swags.</h4>                                 
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
