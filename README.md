@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Kameshh Mishra<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
- - <h4>:telescope: I am passionate about technology, innovation, and big challenging tasks on my to-do list.<br>That makes me want to learn more and keep up with building something. I am Learning Programming, App & Web Development, and Cyber Security. </h4>
+- <h4>:telescope: I am passionate about technology, innovation, and big challenging tasks on my to-do list.    <br>   That makes me want to learn more and keep up with building something. I am Learning Programming,                       App & Web Development.</h4>
 
-- <h4>:seedling: I’m interested in Coding, App Development, Web Development, Cloud Computing, Machine Learning, Artificial Intelligence, Data Science, Cyber Security, Open Source, Competitive Programming, and many more. </h4>
+- <h4>:seedling: I’m interested in Coding, App Development, Web Development, Machine Learning, Artificial Intelligence, Data Science, Open Source, and many more. </h4>
 
 - <h4>📚 In my free time, I like to read books, watch movies, listen to music, and earn certifications and swags.</h4>                                 
 
