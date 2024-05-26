@@ -4,7 +4,7 @@
 
 - <h4>:seedling: I’m interested in Coding, App Development, Web Development, Machine Learning, Artificial Intelligence, Data Science, Open Source, and many more.</h4>
 
-- <h4>📚 In my free time, I like to read books, watch movies, listen to music, and earn certifications and swags.</h4>                                 
+- <h4>📚 In my free time, I like to read books, watch movies, listen to music, and earn certifications and swags.</h4><br>                                 
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
