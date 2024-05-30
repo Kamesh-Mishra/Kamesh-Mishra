@@ -6,6 +6,9 @@
 - <h4>📚 In my free time, I like to read books, watch movies, listen to music, and earn certifications and swags.</h4><br>                                 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+
+![Anagha's github stats](https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra&show_icons=true&theme=radical)
+
 [![Kamesh's github stats](https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra)](https://github.com/Kamesh-Mishra/github-readme-stats)
 
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamesh-Mishra&layout=compact&hide=html" alt="Kamesh-Mishra" />
