@@ -6,17 +6,15 @@
 - <h4>📚 In my free time, I like to read books, watch movies, listen to music, and earn certifications and swags.</h4><br>                                 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-![Anagha's github stats](https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra&show_icons=true&theme=radical)
+![Kamesh's github stats](https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra&show_icons=true&theme=radical)
 
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamesh-Mishra&layout=compact&hide=html" alt="Kamesh-Mishra" />
 
 ## Consistency is key ✨
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kamesh-Mishra&theme=blue-navy&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
-
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{Kamesh-Mishra}/count.svg)
-
 
 You can connect with me here,
 
@@ -27,8 +25,6 @@ You can connect with me here,
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/)
 #
-
 <h2 align="center">Give some ❤ Give some ⭐</h2>
-
 
 ![footer](https://github.com/Kamesh-Mishra/Kamesh-Mishra/blob/master/footer.png)
