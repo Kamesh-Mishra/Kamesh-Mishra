@@ -6,9 +6,10 @@
 - <h4>📚 In my free time, I like to read books, watch movies, listen to music, and earn certifications and swags.</h4><br>                                 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-![Kamesh's github stats](https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra&show_icons=true&theme=radical)
+![Kamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamesh-Mishra&layout=compact&hide=html" alt="Kamesh-Mishra" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamesh-Mishra&layout=compact&theme=tokyonight)](https://github.com/Kamesh-Mishra)
+
 
 ## Consistency is key ✨
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kamesh-Mishra&theme=blue-navy&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
