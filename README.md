@@ -3,7 +3,9 @@
 
 - <h4>:seedling: I’m interested in Coding, App Development, Web Development, Machine Learning, Artificial Intelligence, Data Science, Open Source, and many more.</h4>
 
-- <h4>📚 In my free time, I like to read books, watch movies, listen to music, and earn certifications and swags.</h4><br>                                 
+- <h4>📚 In my free time, I like to read books, watch movies, listen to music, and earn certifications and swags.</h4>  
+##
+<!--
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ![Kamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
@@ -13,6 +15,15 @@
 
 ## Consistency is key ✨
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kamesh-Mishra&theme=blue-navy&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+-->
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Kamesh-Mishra&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamesh-Mishra&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Kamesh-Mishra&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{Kamesh-Mishra}/count.svg)
